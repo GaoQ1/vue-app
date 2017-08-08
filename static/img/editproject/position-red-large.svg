@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="68.997px" height="80.943px" viewBox="0 0 68.997 80.943" enable-background="new 0 0 68.997 80.943" xml:space="preserve">
+<g id="图层_1">
+	<g>
+		<g>
+			<g>
+				<defs>
+					<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="11.55" y="0" width="47.262" height="67.102">
+						<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+						<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="11.55" y="0" width="47.262" height="67.102" id="SVGID_1_">
+					<g filter="url(#Adobe_OpacityMaskFilter)">
+						<circle cx="35.182" cy="22.673" r="8.388"/>
+					</g>
+				</mask>
+				<path mask="url(#SVGID_1_)" fill="#F45151" d="M58.812,23.629C58.812,10.577,48.231,0,35.183,0
+					C22.13,0,11.55,10.577,11.55,23.629c0,4.462,1.239,8.635,3.39,12.197L35.2,67.102l20.232-31.296
+					C57.575,32.249,58.812,28.085,58.812,23.629z"/>
+			</g>
+		</g>
+		
+			<radialGradient id="SVGID_3_" cx="34.4985" cy="75.4434" r="24.7022" gradientTransform="matrix(1 0 0 0.2 0 60.3547)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000;stop-opacity:0.6"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</radialGradient>
+		<ellipse opacity="0.5" fill="url(#SVGID_3_)" cx="34.499" cy="75.443" rx="34.499" ry="5.5"/>
+	</g>
+</g>
+<g id="图层_2">
+</g>
+<g id="图层_3" display="none">
+</g>
+<g id="图层_4">
+</g>
+<g id="图层_5">
+</g>
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40px"
+	 height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+<g id="图层_1">
+</g>
+<g id="图层_2">
+</g>
+<g id="图层_4">
+	<g>
+		<g>
+			<g>
+				
+					<image overflow="visible" opacity="0.25" width="200" height="200" xlink:href="C81640C0.png"  transform="matrix(0.24 0 0 0.24 -4 -3)">
+				</image>
+				<g>
+					<g>
+						<path fill="#3D7DB0" d="M36,38H4c-1.104,0-2-0.896-2-2V4c0-1.105,0.896-2,2-2h32c1.104,0,2,0.895,2,2v32
+							C38,37.104,37.104,38,36,38z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			
+				<image overflow="visible" opacity="0.25" width="96" height="134" xlink:href="C81640C1.png"  transform="matrix(0.24 0 0 0.24 8.5366 5.6758)">
+			</image>
+			<g>
+				<g>
+					<g>
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="20.0366" y1="20.6758" x2="20.0366" y2="20.6758">
+							<stop  offset="0" style="stop-color:#FFFFFF"/>
+							<stop  offset="1" style="stop-color:#000000"/>
+						</linearGradient>
+						<line fill="url(#SVGID_1_)" x1="20.037" y1="7.676" x2="20.037" y2="33.676"/>
+						<rect x="19.437" y="7.676" fill="#FFFFFF" width="1.2" height="26"/>
+					</g>
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="11.537" y="12.176" width="17" height="17">
+							
+								<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="source" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="11.537" y="12.176" width="17" height="17" id="SVGID_3_">
+						<g filter="url(#Adobe_OpacityMaskFilter)">
+							<rect x="20.037" y="9.271" fill="#FFFFFF" width="23.228" height="23.228"/>
+						</g>
+					</mask>
+					<g mask="url(#SVGID_3_)">
+						<polygon fill="#FFFFFF" points="28.537,29.176 26.787,29.176 26.787,28.176 26.537,28.176 26.537,27.426 26.787,27.426 
+							26.787,27.176 27.537,27.176 27.537,27.426 28.537,27.426 						"/>
+						<path fill="#FFFFFF" d="M25.287,29.176h-1.5v-2h1.5V29.176z M22.287,29.176h-1.5v-2h1.5V29.176z M19.287,29.176h-1.5v-2h1.5
+							V29.176z M16.287,29.176h-1.5v-2h1.5V29.176z"/>
+						<polygon fill="#FFFFFF" points="13.287,29.176 11.537,29.176 11.537,27.426 12.537,27.426 12.537,27.176 13.287,27.176 
+							13.287,27.426 13.537,27.426 13.537,28.176 13.287,28.176 						"/>
+						<path fill="#FFFFFF" d="M13.537,25.926h-2v-1.5h2V25.926z M13.537,22.926h-2v-1.5h2V22.926z M13.537,19.926h-2v-1.5h2V19.926z
+							 M13.537,16.926h-2v-1.5h2V16.926z"/>
+						<polygon fill="#FFFFFF" points="13.287,14.176 12.537,14.176 12.537,13.926 11.537,13.926 11.537,12.176 13.287,12.176 
+							13.287,13.176 13.537,13.176 13.537,13.926 13.287,13.926 						"/>
+						<path fill="#FFFFFF" d="M25.287,14.176h-1.5v-2h1.5V14.176z M22.287,14.176h-1.5v-2h1.5V14.176z M19.287,14.176h-1.5v-2h1.5
+							V14.176z M16.287,14.176h-1.5v-2h1.5V14.176z"/>
+						<polygon fill="#FFFFFF" points="27.537,14.176 26.787,14.176 26.787,13.926 26.537,13.926 26.537,13.176 26.787,13.176 
+							26.787,12.176 28.537,12.176 28.537,13.926 27.537,13.926 						"/>
+						<path fill="#FFFFFF" d="M28.537,25.926h-2v-1.5h2V25.926z M28.537,22.926h-2v-1.5h2V22.926z M28.537,19.926h-2v-1.5h2V19.926z
+							 M28.537,16.926h-2v-1.5h2V16.926z"/>
+					</g>
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="11.537" y="12.176" width="17" height="17">
+							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="11.537" y="12.176" width="17" height="17" id="SVGID_4_">
+						<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+							<rect x="20.037" y="9.271" fill="#FFFFFF" width="23.228" height="23.228"/>
+						</g>
+					</mask>
+					<path mask="url(#SVGID_4_)" fill="#FFFFFF" d="M28.537,29.176h-17v-17h17V29.176z M13.537,27.176h13v-13h-13V27.176z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="图层_5">
+</g>
+</svg>

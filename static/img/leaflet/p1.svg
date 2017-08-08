@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="30px" viewBox="0 0 24 30" enable-background="new 0 0 24 30" xml:space="preserve">
+<g id="图层_1">
+	<g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="1.435" y="0" width="21.13" height="30">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="1.435" y="0" width="21.13" height="30" id="SVGID_1_">
+				<g filter="url(#Adobe_OpacityMaskFilter)">
+					<circle cx="12" cy="10.137" r="3.75"/>
+				</g>
+			</mask>
+			<path mask="url(#SVGID_1_)" fill="#F45151" d="M22.565,10.564C22.565,4.729,17.833,0,12,0C6.165,0,1.435,4.729,1.435,10.564
+				c0,1.994,0.555,3.86,1.516,5.453L12.009,30l9.045-13.992C22.013,14.418,22.565,12.557,22.565,10.564z"/>
+		</g>
+	</g>
+</g>
+<g id="图层_2">
+</g>
+<g id="图层_3" display="none">
+</g>
+<g id="图层_4">
+</g>
+<g id="图层_5">
+</g>
+</svg>

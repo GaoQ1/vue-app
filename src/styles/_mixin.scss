@@ -1,0 +1,18 @@
+@mixin e($element){
+    &__#{$element}{
+        @content;
+    }
+}
+
+@mixin m($modifier){
+    &--#{$modifier}{
+        @content;
+    }
+}
+
+$bg_dark_color: #2C3137;
+$bg_light_color: #fff;
+$bg_hover_color: #3D7DB0;
+$font_color: #B9BBBD;
+$font_menu_color: #595A5A;
+$font_list_color: #4C5054;
