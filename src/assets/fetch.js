@@ -48,6 +48,9 @@ function checkStatus(response) {
   if (response.status >= 200 && response.status < 300) {
     if(response.data.errCode == 0){
       return Promise.resolve(response.data)
+    }else if(response.data.errCode == 603){
+      this.$router.push({path: '/login'});
+      return Promise.reject(response.data.errMessage)
     }else{
       return Promise.reject(response.data.errMessage)
     }
